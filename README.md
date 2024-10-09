@@ -1,7 +1,6 @@
-# Sistema-de-Arquivos
-# Simulador de Sistema de Arquivos
+# Sistema de Arquivos
 
-Este projeto é um simulador de sistema de arquivos em Python, que utiliza a biblioteca **PyQt5** para criar uma interface gráfica interativa. O simulador permite a criação, leitura e exclusão de arquivos, gerenciando a memória de forma eficiente e visualizando o estado do disco.
+Este projeto é um simulador de sistema de arquivos em Python que utiliza a biblioteca **PyQt5** para criar uma interface gráfica interativa. O simulador permite a criação, leitura e exclusão de arquivos, gerenciando a memória de forma eficiente e visualizando o estado do disco.
 
 ## Sumário
 
@@ -44,5 +43,5 @@ O projeto é estruturado da seguinte forma:
 
 1. Clone o repositório:
    ```bash
-   git clone https://seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/josuecreates/Sistema-de-Arquivos.git
+   cd Sistema-de-Arquivos
