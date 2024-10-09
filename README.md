@@ -8,12 +8,8 @@ Este projeto é um simulador de sistema de arquivos em Python que utiliza a bibl
 - [Arquitetura do Projeto](#arquitetura-do-projeto)
 - [Requisitos](#requisitos)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Estrutura do Código](#estrutura-do-código)
-- [Exemplo de Uso](#exemplo-de-uso)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
-- [Contato](#contato)
 
 ## Funcionalidades
 
